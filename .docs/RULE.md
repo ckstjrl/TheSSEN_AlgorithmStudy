@@ -94,7 +94,7 @@ touch <닉네임>.cpp
 ### Step 4. 커밋
 
 ```bash
-git add .
+git add <닉네임>.cpp
 git commit -m "solved(BOJ1234 / B3): 문제이름"
 ```
 
