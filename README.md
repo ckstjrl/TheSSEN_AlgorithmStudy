@@ -10,6 +10,10 @@
 * mindidii
 * vestuni
 
+|![찬석](https://avatars.githubusercontent.com/u/221036337?v=4)|![철준](https://avatars.githubusercontent.com/u/56952340?v=4)|![준범](https://avatars.githubusercontent.com/u/80073573?v=4)|![민지](https://avatars.githubusercontent.com/u/144782994?v=4)|![준희](https://avatars.githubusercontent.com/u/205507071?v=4)
+|:---:|:---:|:---:|:---:|:---:|
+|**박찬석** <br> [ckstjrl](https://github.com/ckstjrl) <br>|**박철준** <br> [cheoljun99](https://github.com/cheoljun99)<br>| **강준범** <br> [KangJunBeom](https://github.com/KangJunBeom) <br>|**김민지** <br>[mindidii](https://github.com/mindidii)|**정준희** <br>[vestuni](https://github.com/vestuni)<br>|
+
 ## 🎯 Study Goal
 
 * BOJ / Programmers 문제 풀이
