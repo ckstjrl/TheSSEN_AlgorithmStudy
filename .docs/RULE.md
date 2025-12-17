@@ -67,6 +67,12 @@ solved(BOJ[문제번호] / 문제레벨): 문제이름
 ---
 
 ## 5. 작업 순서 (팀원 기준)
+### Step 0. config!!! (PC마다 1회)
+
+```bash
+git config --global user.name "본인 github 아이디"
+git config --global user.email "본인 github 이메일"
+```
 
 ### Step 1. 레포 클론 (최초 1회)
 
@@ -78,7 +84,7 @@ cd TheSSEN_AlgorithmStudy
 ### Step 2. 개인 브랜치 생성 (최초 1회)
 
 ```bash
-git checkout -b user/<닉네임>
+git switch -c user/<닉네임>
 git push origin user/<닉네임>
 ```
 
@@ -98,11 +104,15 @@ git add <닉네임>.cpp
 git commit -m "solved(BOJ1234 / B3): 문제이름"
 ```
 
+> ⚠️ commit하면서 **커밋명** 다시 확인 (오타 주의)
+
 ### Step 5. 푸시
 
 ```bash
 git push origin user/<닉네임>
 ```
+
+> ⚠️ push 전에 **커밋명** 또 다시 확인 (오타 주의)
 
 ### Step 6. Pull Request 생성 - 일주일에 한번 진행
 
@@ -127,7 +137,18 @@ git push origin user/<닉네임>
     ```
 
 > ⚠️ PR 생성 전 `main` 최신화는 필수 아님
+
 > ⚠️ merge 후 `main` 최신화 필수
+
+### Step 7. merge 후 main 최신화
+```bash
+git switch main
+git pull origin main
+git switch user/<닉네임>
+```
+브랜치를 main으로 변경하고 pull받은 후 다시 본인 브랜치로 이동
+
+> ⚠️ 꼭 최신화 후 본인 브랜치로 이동 -> 터미널에서 브랜치가 `(user/<닉네임>)`으로 이동했는지 꼭 확인
 
 ---
 
