@@ -61,8 +61,8 @@ solved(BOJ[문제번호] / 문제레벨): 문제이름
 
 예시:
 
-* `solved(BOJ[1107] / G5): 리모컨`
-* `solved(PGS[42586] / Lv2): 기능개발`
+* `solved(BOJ1107 / G5): 리모컨`
+* `solved(PGS42586 / Lv2): 기능개발`
 
 ---
 
