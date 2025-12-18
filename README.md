@@ -23,9 +23,9 @@
 ## 📁 Directory Structure
 
 ```
-BOJ/BOJ1234/ckstjrl.cpp
-BOJ/BOJ1234/cheoljun99.cpp
-PGS/PGS42586/mindidii.cpp
+BOJ/25-12-W4/BOJ1234/ckstjrl.cpp
+BOJ/26-1-W1/BOJ1234/cheoljun99.cpp
+PGS/25-1-W2/PGS42586/mindidii.cpp
 ```
 
 ### 규칙 요약
