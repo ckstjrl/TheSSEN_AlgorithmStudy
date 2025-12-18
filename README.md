@@ -30,9 +30,11 @@ PGS/PGS42586/mindidii.cpp
 
 ### 규칙 요약
 
+* 1명씩 돌아가며 주당 5개의 문제 선정 후 ckstjrl에게 전달
+* 1주일마다 PR후 일괄 merge 진행한 후 문제 폴더 생성할 예정 -> 꼭 `main`브랜치 최신화 할 것
 * 문제 폴더는 `BOJ/BOJ문제번호`, `PGS/PGS문제번호`
 * 파일명은 반드시 **닉네임**으로 작성 `BOJ/BOJ문제번호/ckstjrl.cpp`
 * 개인 브랜치(`user/<닉네임>`)에서 작업 후 PR 생성
-* `main` 브랜치 머지는 ckstjrl이 담당
+* `main` 브랜치 merge는 ckstjrl이 담당
 
 👉 자세한 협업 규칙은 `docs/rule.md` 참고
