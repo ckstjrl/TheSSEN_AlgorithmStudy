@@ -34,13 +34,13 @@
 ### BOJ
 
 ```
-BOJ/BOJ1234/<닉네임>.cpp
+BOJ/25-12-W4/BOJ1234/<닉네임>.cpp
 ```
 
 ### Programmers
 
 ```
-PGS/PGS1234/<닉네임>.cpp
+PGS/25-12-W4/PGS1234/<닉네임>.cpp
 ```
 
 ### 중요 규칙
@@ -90,10 +90,9 @@ git push origin user/<닉네임>
 
 ### Step 3. 문제 풀이
 
-* 예: `BOJ/BOJ1234/<닉네임>.cpp`
+* 예: `BOJ/25-12-W4/BOJ1234/<닉네임>.cpp`
 ```bash
-mkdir BOJ1234
-cd BOJ1234
+cd BOJ/25-12-W4/BOJ1234
 touch <닉네임>.cpp
 ```
 
@@ -138,7 +137,7 @@ git push origin user/<닉네임>
 
 > ⚠️ PR 생성 전 `main` 최신화는 필수 아님
 
-> ⚠️ merge 후 `main` 최신화 필수
+> ⚠️ merge 후 `main` 최신화 필수 (merge + 문제 추가 후)
 
 ### Step 7. merge 후 main 최신화
 ```bash
