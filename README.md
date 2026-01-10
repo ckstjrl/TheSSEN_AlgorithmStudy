@@ -8,7 +8,7 @@
 * cheoljun99
 * KangJunBeom
 * mindidii
-* vestuni
+* vestuni (중도퇴소)
 
 |![찬석](https://avatars.githubusercontent.com/u/221036337?v=4)|![철준](https://avatars.githubusercontent.com/u/56952340?v=4)|![준범](https://avatars.githubusercontent.com/u/80073573?v=4)|![민지](https://avatars.githubusercontent.com/u/144782994?v=4)|![준희](https://avatars.githubusercontent.com/u/205507071?v=4)
 |:---:|:---:|:---:|:---:|:---:|
